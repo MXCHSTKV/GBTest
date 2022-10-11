@@ -1,0 +1,15 @@
+/Users/max/Desktop/GeekBrains/GBTest/obj/Debug/net6.0/GBTest.csproj.AssemblyReference.cache
+/Users/max/Desktop/GeekBrains/GBTest/obj/Debug/net6.0/GBTest.GeneratedMSBuildEditorConfig.editorconfig
+/Users/max/Desktop/GeekBrains/GBTest/obj/Debug/net6.0/GBTest.AssemblyInfoInputs.cache
+/Users/max/Desktop/GeekBrains/GBTest/obj/Debug/net6.0/GBTest.AssemblyInfo.cs
+/Users/max/Desktop/GeekBrains/GBTest/obj/Debug/net6.0/GBTest.csproj.CoreCompileInputs.cache
+/Users/max/Desktop/GeekBrains/GBTest/bin/Debug/net6.0/GBTest
+/Users/max/Desktop/GeekBrains/GBTest/bin/Debug/net6.0/GBTest.deps.json
+/Users/max/Desktop/GeekBrains/GBTest/bin/Debug/net6.0/GBTest.runtimeconfig.json
+/Users/max/Desktop/GeekBrains/GBTest/bin/Debug/net6.0/GBTest.dll
+/Users/max/Desktop/GeekBrains/GBTest/bin/Debug/net6.0/GBTest.pdb
+/Users/max/Desktop/GeekBrains/GBTest/obj/Debug/net6.0/GBTest.dll
+/Users/max/Desktop/GeekBrains/GBTest/obj/Debug/net6.0/refint/GBTest.dll
+/Users/max/Desktop/GeekBrains/GBTest/obj/Debug/net6.0/GBTest.pdb
+/Users/max/Desktop/GeekBrains/GBTest/obj/Debug/net6.0/GBTest.genruntimeconfig.cache
+/Users/max/Desktop/GeekBrains/GBTest/obj/Debug/net6.0/ref/GBTest.dll
